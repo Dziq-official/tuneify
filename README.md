@@ -1,6 +1,6 @@
 # Tuneify
 
-Tuneify is an innovative internet radio application built using **Vue.js**, designed to provide users with a seamless and enjoyable radio streaming experience. With a modern interface and powerful features, Tuneify makes listening to online radio stations effortless and engaging.
+Tuneify is an innovative internet radio application built using **Angular**, designed to provide users with a seamless and enjoyable radio streaming experience. With a modern interface and powerful features, Tuneify makes listening to online radio stations effortless and engaging.
 
 ## Features
 
@@ -11,10 +11,10 @@ Tuneify is an innovative internet radio application built using **Vue.js**, desi
 
 ## Technologies Used
 
-- **Vue.js**: A progressive JavaScript framework for building user interfaces.
-- **Vuetify**: Material Design component framework for Vue.js.
+- **Angular**: A progressive JavaScript framework for building user interfaces.
+- **Spartan**: Angular custom component based ui solution.
 - **SQL**: Used for database operations and storing stations data
-- **Howler.js**: Audio library for handling sound playback.
+- **Tauri/Electron**: For native app development. Probably will use tauri for perforamance reasons.
 
 ## Installation
 
